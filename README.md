@@ -1,7 +1,7 @@
 # WebPush
 > Web Push library for PHP
 
-[![Build Status](https://travis-ci.org/cjwind/web-push.svg?branch=master)](https://travis-ci.org/Minishlink/web-push)
+[![Build Status](https://travis-ci.org/cjwind/web-push.svg?branch=master)](https://travis-ci.org/cjwind/web-push)
 
 ## Installation
 `composer require minishlink/web-push`
